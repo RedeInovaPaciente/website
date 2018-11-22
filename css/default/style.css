@@ -27,7 +27,7 @@
  14. Sidebar
  15. Blog
  16. Case
- 18. Successive Processes 
+ 18. Successive Processes
  19. Marketing App
  20. Tweets
  21. Slider
@@ -158,7 +158,7 @@ button:hover {
   border: none;
   background: none;
   display: block;
-  background: #0186d5;
+  background: #0074c5;
   -webkit-transform: scale(1, 0);
   -ms-transform: scale(1, 0);
   transform: scale(1, 0);
@@ -194,7 +194,7 @@ button:hover {
 }
 .default .navbar #main_nav .nav li.dropdown:hover a {
   color: #fff;
-  background: #0186d5;
+  background: #0074c5;
 }
 .default .navbar #main_nav .nav li.dropdown:hover ul {
   -webkit-transform: scale(1, 1);
@@ -205,14 +205,14 @@ button:hover {
   background: none;
 }
 .default .navbar #main_nav .nav li.book a {
-  background: #fe824c;
+  background: #f2831a;
   padding: 0 25px;
   color: #fff;
   line-height: 48px;
   margin-left: 15px;
 }
 .default .navbar #main_nav .nav li.book a:hover {
-  background: #0186d5;
+  background: #0074c5;
 }
 .default .navbar.navbar2 {
   background: #fff;
@@ -254,7 +254,7 @@ button:hover {
   line-height: 48px;
 }
 .default .navbar.navbar3 {
-  background: #0186d5;
+  background: #0074c5;
   height: auto;
   padding-top: 0;
   margin-bottom: 0;
@@ -354,7 +354,7 @@ button:hover {
 .form_top_part h4 {
   padding: 0 40px;
   line-height: 48px;
-  color: #0186d5;
+  color: #0074c5;
   font-family: 'Lato', sans-serif;
   text-transform: uppercase;
   background: #fff;
@@ -430,7 +430,7 @@ button:hover {
   background: none;
   padding: 0 45px;
   line-height: 48px;
-  background: #fe824c;
+  background: #f2831a;
   text-transform: uppercase;
   font-family: 'Karla', sans-serif;
   color: #fff;
@@ -440,12 +440,12 @@ button:hover {
 }
 .form_row .col-sm-3 button:hover,
 .form_row .col-sm-3 button:focus {
-  background: #0186d5;
+  background: #0074c5;
 }
 .form_bottom_part {
   width: 430px;
   padding: 28px 34px;
-  background: #0186d5;
+  background: #0074c5;
   margin-bottom: 0;
 }
 .form_bottom_part a {
@@ -484,7 +484,7 @@ button:hover {
   content: '';
   width: 85px;
   height: 1px;
-  background: #0186d5;
+  background: #0074c5;
   display: block;
   margin: 10px auto 0;
 }
@@ -538,7 +538,7 @@ button:hover {
   margin-right: 25px;
 }
 .accordion .panel .panel-heading h4 a[aria-expanded="true"] {
-  background: #0186d5;
+  background: #0074c5;
   color: #fff;
 }
 .accordion .panel .panel-heading h4 a[aria-expanded="true"] .sign {
@@ -571,7 +571,7 @@ button:hover {
   border-top: none;
 }
 .accordion.white_bg .panel .panel-heading h4 a {
-  background: #0186d5;
+  background: #0074c5;
   color: #fff;
   line-height: 1.2;
   padding: 17px 75px 17px 30px;
@@ -596,12 +596,12 @@ button:hover {
   font-family: 'Karla', sans-serif;
   font-weight: bold;
   display: inline-block;
-  background: #fe824c;
+  background: #f2831a;
   color: #fff;
   margin-top: 20px;
 }
 .view_all:hover {
-  background: #0186d5;
+  background: #0074c5;
   color: #fff;
 }
 .content_section.row {
@@ -654,7 +654,7 @@ button:hover {
   color: #828fa8;
 }
 .search_form .input-group input:focus {
-  background: #0186d5;
+  background: #0074c5;
   color: #fff;
 }
 .search_form .input-group input:focus::-moz-placeholder {
@@ -667,7 +667,7 @@ button:hover {
   color: #fff;
 }
 .search_form .input-group input:focus + span > button {
-  background: #fe824c;
+  background: #f2831a;
 }
 .search_form .input-group span {
   padding: 0;
@@ -676,7 +676,7 @@ button:hover {
 .search_form .input-group span button {
   width: 67px;
   line-height: 48px;
-  background: #0186d5;
+  background: #0074c5;
   font-family: 'Lato', sans-serif;
   color: #fff;
   text-transform: uppercase;
@@ -686,7 +686,7 @@ button:hover {
   transition: all 300ms ease-in-out 0s;
 }
 .search_form .input-group span button:hover {
-  background: #fe824c;
+  background: #f2831a;
 }
 .categories ul {
   line-height: 36px;
@@ -698,7 +698,7 @@ button:hover {
   color: #404d5f;
 }
 .categories ul li a:hover {
-  color: #0186d5;
+  color: #0074c5;
 }
 .recent_posts .recent_post + .recent_post {
   margin-top: 28px;
@@ -725,7 +725,7 @@ button:hover {
   transition: all 300ms ease-in-out 0s;
 }
 .recent_posts .recent_post .media-body h5:hover {
-  color: #0186d5;
+  color: #0074c5;
 }
 .recent_posts .recent_post .media-body p {
   text-transform: uppercase;
@@ -737,7 +737,7 @@ button:hover {
   color: #404d5f;
 }
 .recent_posts .recent_post .media-body p a:hover {
-  color: #0186d5;
+  color: #0074c5;
 }
 .tags.widget .tag {
   font-family: 'Karla', sans-serif;
@@ -753,7 +753,7 @@ button:hover {
 }
 .tags.widget .tag:hover {
   color: #fff;
-  background: #0186d5;
+  background: #0074c5;
 }
 .tags {
   font-family: 'Lato', sans-serif;
@@ -766,7 +766,7 @@ button:hover {
   color: #404d5f;
 }
 .tags a:hover {
-  color: #0186d5;
+  color: #0074c5;
 }
 .paginationRow {
   text-align: center;
@@ -788,12 +788,12 @@ button:hover {
   margin-right: 5px;
 }
 .paginationRow .pagination li a:hover {
-  background: #0186d5;
+  background: #0074c5;
   color: #fff;
 }
 .paginationRow .pagination li.active a {
   color: #fff;
-  background: #0186d5;
+  background: #0074c5;
 }
 .related {
   font-family: 'Lato', sans-serif;
@@ -809,12 +809,12 @@ button:hover {
   padding-bottom: 45px;
 }
 .related a {
-  color: #0186d5;
+  color: #0074c5;
   margin-bottom: 8px;
   display: block;
 }
 .related a:hover {
-  color: #fe824c;
+  color: #f2831a;
 }
 .pager {
   text-align: left;
@@ -840,7 +840,7 @@ button:hover {
   margin-right: 7px;
 }
 .pager .inner a:hover {
-  color: #0186d5;
+  color: #0074c5;
 }
 .pager .next {
   text-align: right;
@@ -875,7 +875,7 @@ button:hover {
   content: '';
   width: 85px;
   height: 1px;
-  background: #0186d5;
+  background: #0074c5;
   display: block;
   margin: 10px 0 0;
 }
@@ -885,7 +885,7 @@ button:hover {
   margin: 0;
   line-height: 40px;
   font-weight: bold;
-  color: #0186d5;
+  color: #0074c5;
 }
 .author_description .media-body .titleRow h2:after {
   display: none;
@@ -1010,16 +1010,16 @@ button:hover {
   margin-top: 20px;
 }
 .tabs.tabs-blue .nav-tabs li a {
-  background: #0186d5;
+  background: #0074c5;
 }
 .tabs.tabs-blue .nav-tabs li a:hover {
-  background: #fe824c;
+  background: #f2831a;
 }
 .tabs.tabs-orrange .nav-tabs li a {
-  background: #fe824c;
+  background: #f2831a;
 }
 .tabs.tabs-orrange .nav-tabs li a:hover {
-  background: #0186d5;
+  background: #0074c5;
 }
 .tabs .nav-tabs {
   border: none;
@@ -1093,16 +1093,16 @@ button:hover {
   color: #fff;
 }
 .pagination.pagination-blue li a:hover {
-  background: #0186d5;
+  background: #0074c5;
 }
 .pagination.pagination-blue li.active a {
-  background: #0186d5;
+  background: #0074c5;
 }
 .pagination.pagination-orrange li a:hover {
-  background: #fe824c;
+  background: #f2831a;
 }
 .pagination.pagination-orrange li.active a {
-  background: #fe824c;
+  background: #f2831a;
 }
 .columns .column_row h4 {
   font-family: 'Lato', sans-serif;
@@ -1194,7 +1194,7 @@ button:hover {
   transition: all 300ms ease-in-out 0s;
 }
 .service_block h4:hover {
-  color: #0186d5;
+  color: #0074c5;
 }
 .service_block p {
   margin-bottom: 0;
@@ -1267,12 +1267,12 @@ button:hover {
   color: #fff;
   display: inline-block;
   line-height: 48px;
-  background: #0186d5;
+  background: #0074c5;
   padding: 0 25px;
   text-transform: uppercase;
 }
 .serviceDetailsSection .book_btn:hover {
-  background: #fe824c;
+  background: #f2831a;
 }
 /*----------------------------------------------------------------*/
 .recentpost_acc {
@@ -1312,7 +1312,7 @@ button:hover {
   transition: all 300ms ease-in-out 0s;
 }
 .recent_post_home .media .media-body h4:hover {
-  color: #0186d5;
+  color: #0074c5;
 }
 .recent_post_home .media .media-body .meta {
   font-family: 'Lato', sans-serif;
@@ -1326,7 +1326,7 @@ button:hover {
   color: #404d5f;
 }
 .recent_post_home .media .media-body .meta a:hover {
-  color: #0186d5;
+  color: #0074c5;
 }
 .recent_post_home .media .media-body p {
   margin: 0;
@@ -1447,13 +1447,13 @@ button:hover {
   color: #fff;
 }
 .department_tab li a:hover {
-  color: #0186d5;
+  color: #0074c5;
   border: none;
   background: #fff;
   border: 1px solid  #fff;
 }
 .department_tab li.active a {
-  color: #0186d5;
+  color: #0074c5;
   border: 1px solid #fff;
 }
 .about_medicalpro_N_form {
@@ -1521,7 +1521,7 @@ button:hover {
   margin-right: 10px;
 }
 .appointment_home_form2 .form_inputs input[type="submit"] {
-  background: #fe824c;
+  background: #f2831a;
   border: none;
   border-radius: 0;
   color: #fff;
@@ -1537,7 +1537,7 @@ button:hover {
 }
 .appointment_home_form2 .form_inputs input[type="submit"]:hover,
 .appointment_home_form2 .form_inputs input[type="submit"]:focus {
-  background: #0186d5;
+  background: #0074c5;
 }
 .appointment_home_form2 .form_inputs .input_row {
   background: #57beee;
@@ -1613,7 +1613,7 @@ button:hover {
   display: block;
   font-family: 'Karla', sans-serif;
   font-weight: bold;
-  color: #0186d5;
+  color: #0074c5;
   text-transform: uppercase;
 }
 .our_depts_list .depts_list li a i {
@@ -1663,7 +1663,7 @@ button:hover {
 .team_section .nav-tabs .media.active a .media-body h5,
 .team_section .nav-tabs .media:focus a .media-body h5,
 .team_section .nav-tabs .media:hover a .media-body h5 {
-  color: #0186d5;
+  color: #0074c5;
 }
 .team_section .tab-content .media + .media {
   margin-top: 0;
@@ -1682,7 +1682,7 @@ button:hover {
   margin: 110px 0 30px;
 }
 .team_section .tab-content .titleRow h2 {
-  color: #0186d5;
+  color: #0074c5;
 }
 .team_section .tab-content .titleRow h2:after {
   display: none;
@@ -1695,7 +1695,7 @@ button:hover {
   content: '';
   width: 85px;
   height: 1px;
-  background: #0186d5;
+  background: #0074c5;
   display: block;
   margin: 10px 0 0;
 }
@@ -1729,7 +1729,7 @@ button:hover {
 }
 .team_section_type2 .team_member .title_row .pos {
   font-style: italic;
-  color: #0186d5;
+  color: #0074c5;
   font-family: 'Lato', sans-serif;
   font-size: 16px;
   line-height: 1;
@@ -1744,14 +1744,14 @@ button:hover {
 }
 /*----------------------------------------------------------------*/
 .book_banner {
-  background: #fe824c;
+  background: #f2831a;
   color: #fff;
   padding: 43px 0;
   clear: both;
 }
 .book_banner .view_all {
   background: #fff;
-  color: #fe824c;
+  color: #f2831a;
   margin-top: 0;
   border: 1px solid  #fff;
   padding: 0;
@@ -1810,7 +1810,7 @@ button:hover {
 .book_bannerType2 .view_all {
   background: #fff;
   border: 1px solid  #fff;
-  color: #0186d5;
+  color: #0074c5;
 }
 .book_bannerType2 .view_all:hover {
   background: none;
@@ -1930,7 +1930,7 @@ footer .newsletterForm input + input {
   margin-top: 10px;
 }
 footer .newsletterForm input[type="submit"] {
-  background: #0186d5;
+  background: #0074c5;
   margin-top: 20px;
   text-align: center;
   text-transform: uppercase;
@@ -1941,7 +1941,7 @@ footer .newsletterForm input[type="submit"] {
 }
 footer .newsletterForm input[type="submit"]:hover,
 footer .newsletterForm input[type="submit"]:focus {
-  background: #fe824c;
+  background: #f2831a;
 }
 footer .newsletter_form2 {
   margin-top: -20px;
@@ -2092,7 +2092,7 @@ footer .footer_bottom .copyright a {
   padding-right: 40px;
 }
 .testimonial_section .testimonial_slider .testi_content .inner .postText {
-  background: #0186d5;
+  background: #0074c5;
   font-size: 21px;
   font-family: 'Lato', sans-serif;
   font-style: italic;
@@ -2113,12 +2113,12 @@ footer .footer_bottom .copyright a {
   background: #9fadbd;
 }
 .testimonial_section .testimonial_slider .flex-control-nav li a.flex-active {
-  background: #0186d5;
+  background: #0074c5;
 }
 /*----------------------------------------------------------------*/
 .page_intro.row {
   height: 214px;
-  background: #0186d5;
+  background: #0074c5;
   color: #fff;
   text-align: center;
   text-transform: uppercase;
@@ -2174,7 +2174,7 @@ footer .footer_bottom .copyright a {
   background: none;
 }
 .breadcrumbRow .inner ul li {
-  color: #fe824c;
+  color: #f2831a;
   font-family: 'Lato', sans-serif;
   font-weight: 300;
   line-height: 15px;
@@ -2213,7 +2213,7 @@ footer .footer_bottom .copyright a {
   margin-bottom: 30px;
 }
 .blog blockquote {
-  border-left: 9px solid #0186d5;
+  border-left: 9px solid #0074c5;
   padding-left: 35px;
 }
 .blog blockquote h2 {
@@ -2227,7 +2227,7 @@ footer .footer_bottom .copyright a {
 }
 .blog blockquote a {
   font-family: 'Karla', sans-serif;
-  color: #fe824c;
+  color: #f2831a;
   font-size: 13px;
   font-weight: bold;
   line-height: 1;
@@ -2246,11 +2246,11 @@ footer .footer_bottom .copyright a {
   transition: all 300ms ease-in-out 0s;
 }
 .blog h3 i {
-  color: #0186d5;
+  color: #0074c5;
   margin-right: 23px;
 }
 .blog h3:hover {
-  color: #0186d5;
+  color: #0074c5;
 }
 .blog .meta {
   font-family: 'Lato', sans-serif;
@@ -2269,7 +2269,7 @@ footer .footer_bottom .copyright a {
   color: #43b9f6;
 }
 .blog .meta a:hover {
-  color: #0186d5;
+  color: #0074c5;
 }
 .blog p {
   font-family: 'Karla', sans-serif;
@@ -2322,13 +2322,13 @@ footer .footer_bottom .copyright a {
   content: '';
   width: 85px;
   height: 1px;
-  background: #0186d5;
+  background: #0074c5;
   display: block;
   margin: 10px 0 0;
 }
 .comments .comment .comment_body .heading h5 {
   font-family: 'Lato', sans-serif;
-  color: #0186d5;
+  color: #0074c5;
   margin: 0;
   line-height: 30px;
   font-weight: bold;
@@ -2364,11 +2364,11 @@ footer .footer_bottom .copyright a {
   color: #fff;
   line-height: 25px;
   padding: 0 20px;
-  background: #0186d5;
+  background: #0074c5;
   display: inline-block;
 }
 .comments .comment .comment_body .reply_btn:hover {
-  background: #fe824c;
+  background: #f2831a;
 }
 .comments .comment.reply_comment {
   margin-left: 165px;
@@ -2433,7 +2433,7 @@ footer .footer_bottom .copyright a {
   margin-top: 20px;
   padding: 0 55px;
   line-height: 55px;
-  background: #0186d5;
+  background: #0074c5;
   font-family: 'Karla', sans-serif;
   font-size: 16px;
   color: #fff;
@@ -2444,7 +2444,7 @@ footer .footer_bottom .copyright a {
 }
 .reply_form .submit_btn:hover,
 .reply_form .submit_btn:focus {
-  background: #fe824c;
+  background: #f2831a;
 }
 /*----------------------------------------------------------------*/
 .contact_section_title {
@@ -2501,7 +2501,7 @@ footer .footer_bottom .copyright a {
   line-height: 1;
   font-family: 'Lato', sans-serif;
   font-weight: bold;
-  color: #0186d5;
+  color: #0074c5;
   text-transform: uppercase;
 }
 .contact_intro.row .inner .col-sm-7 .phone_fax .phone,
@@ -2538,7 +2538,7 @@ footer .footer_bottom .copyright a {
 .contactForm .contact_form label.error {
   padding-top: 5px;
   clear: both;
-  color: #fe824c;
+  color: #f2831a;
 }
 .contactForm .contact_form .form-control {
   padding: 0 22px;
@@ -2573,7 +2573,7 @@ footer .footer_bottom .copyright a {
   margin-top: 35px;
   padding: 0 25px;
   line-height: 50px;
-  background: #0186d5;
+  background: #0074c5;
   font-family: 'Lato', sans-serif;
   font-weight: bold;
   font-size: 14px;
@@ -2585,7 +2585,7 @@ footer .footer_bottom .copyright a {
 }
 .contactForm .contact_form .submit_btn:hover,
 .contactForm .contact_form .submit_btn:focus {
-  background: #fe824c;
+  background: #f2831a;
 }
 .contactForm .contact_form .security_captcha {
   line-height: 35px;
@@ -2688,7 +2688,7 @@ footer .footer_bottom .copyright a {
 .doctor_details .doctor_about .heading h5 {
   text-transform: capitalize;
   font-style: italic;
-  color: #0186d5;
+  color: #0074c5;
   margin: 0;
   font-family: 'Lato', sans-serif;
   font-size: 16px;
@@ -2729,7 +2729,7 @@ footer .footer_bottom .copyright a {
   content: '';
   width: 80px;
   height: 1px;
-  background: #0186d5;
+  background: #0074c5;
   display: block;
   margin: 20px 0 0;
 }
@@ -2802,10 +2802,10 @@ footer .footer_bottom .copyright a {
 .timeTable tbody tr td.rehabilitation,
 .timeTable tbody tr td.nurology,
 .timeTable tbody tr td.dental {
-  background: #0186d5;
+  background: #0074c5;
 }
 .timeTable tbody tr td.cardiac {
-  background: #fe824c;
+  background: #f2831a;
 }
 .timeTable tbody tr td.cancer {
   background: #43b9f6;
@@ -2901,7 +2901,7 @@ footer .footer_bottom .copyright a {
     padding: 0 15px;
     text-align: center;
 }
-.service_tab #service_tab li a{    
+.service_tab #service_tab li a{
     border: 1px solid  #e5f0fb;
     border-radius: 0;
     padding: 0 5px 20px;
@@ -2927,11 +2927,11 @@ footer .footer_bottom .copyright a {
     background: none;
 }
 .service_tab #service_tab li.active a{
-    border-color: #0186d5;
+    border-color: #0074c5;
     color: #404d5f;
 }
 .service_tab #service_tab li.active a span{
-    background-color: #0186d5;
+    background-color: #0074c5;
 }
 .service_tab #service_tab li:nth-child(1) a span{
     background-image: url(../../images/icons/service_block/tab/1-g.png);
@@ -3003,7 +3003,7 @@ footer .footer_bottom .copyright a {
     content: '';
     width: 85px;
     height: 1px;
-    background: #0186d5;
+    background: #0074c5;
     display: block;
     margin: 13px 0 0;
 }
